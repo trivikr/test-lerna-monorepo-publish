@@ -1,13 +1,13 @@
 {
   "name": "@trivikr-org/is-even",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@trivikr-org/is-odd": "*"
+    "@trivikr-org/is-odd": "0.0.2"
   },
   "keywords": [],
   "author": "Kamat, Trivikram",
